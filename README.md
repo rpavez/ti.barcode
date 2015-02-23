@@ -5,7 +5,9 @@ Titanium Barcode Module
 ==============
 
 Direct download
-[This link](https://raw.githubusercontent.com/rpavez/ti.barcode/master/ios/ti.barcode-iphone-1.9.1.zip) Download compiled module here!
+----
+[iOS Compiled Module](https://raw.githubusercontent.com/rpavez/ti.barcode/master/ios/ti.barcode-iphone-1.9.1.zip) 
+[Android Compiled Module](https://github.com/rpavez/ti.barcode/blob/master/android/dist/ti.barcode-android-2.3.5.zip)
 
 This is the Barcode Module for Titanium built on top of the ZXing library.
 
