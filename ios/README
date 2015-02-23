@@ -1,6 +1,12 @@
 Appcelerator Titanium iPhone Module Project
 ===========================================
 
+64-BITS Ready!
+==============
+
+Direct download
+[This link](https://raw.githubusercontent.com/rpavez/ti.barcode/master/ios/ti.barcode-iphone-1.9.1.zip) Download compiled module here!
+
 This is a skeleton Titanium Mobile iPhone module project.  Modules can be 
 used to extend the functionality of Titanium by providing additional native
 code that is compiled into your application at build time and can expose certain
